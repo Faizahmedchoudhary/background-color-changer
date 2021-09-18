@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+.button{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+    flex-direction: column;
+    color: white;
+}
+
+#btn{
+    padding: 1rem;
+    background-color: tomato;
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+    color: white;
+    font-size: 1rem;
+}
+
+#colorcode{
+    margin-top: 3rem;
+    
+}
